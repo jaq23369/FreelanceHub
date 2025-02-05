@@ -1,5 +1,5 @@
 # FreelanceHub
 
-Enlace al docs: https://docs.google.com/document/d/19_rlI8Cn8to7wfmSV-MOg1GkeDuGzIfnwY1e7074yXo/edit?tab=t.0
+Enlace al docs: [(https://uvggt-my.sharepoint.com/:w:/r/personal/roc23501_uvg_edu_gt/Documents/Corte1%20INGS.docx?d=w0d897847227f4950aad908aa96901fcf&csf=1&web=1&e=AueqR0)](https://uvggt-my.sharepoint.com/:w:/r/personal/roc23501_uvg_edu_gt/Documents/Corte1%20INGS.docx?d=w0d897847227f4950aad908aa96901fcf&csf=1&web=1&e=AueqR0)
 
-Enlace al informe de tiempo de trabaja : https://docs.google.com/spreadsheets/d/1AnuYTcFvyjyhwRpogSVNpSnAgdo-Jrv3VcV0x3JhwKM/edit?gid=1838262415#gid=1838262415
+Enlace al informe de tiempo de trabaja : https://uvggt-my.sharepoint.com/:w:/r/personal/roc23501_uvg_edu_gt/Documents/Corte1%20INGS.docx?d=w0d897847227f4950aad908aa96901fcf&csf=1&web=1&e=AueqR0
