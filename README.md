@@ -1,12 +1,18 @@
-Este README.md tiene le listado de files que contiene cada carpeta para el
-mejor orden y entendimiento del repositorio. 
+# README.md
 
-Carpeta Avances_1: contiene todo el material de los avances que se han llevado
-a cobo durante la fase 1. 
+Este README.md contiene el listado de archivos que contiene cada carpeta para un mejor orden y entendimiento del repositorio.
 
-Carpeta Corte_1: Contiene el pdf con todos los requisitos que se pedian en esta entrega. 
+## Estructura del Repositorio
 
-Carpeta Avances_2: Contiene el material de Desing Studio, las ideas en los sketch y 
-los casos de Usuario requeridos. 
+### 📂 Avances_1  
+Contiene todo el material de los avances que se han llevado a cabo durante la fase 1.  
 
-Carpeta Corte_2: Contiene el material que se pide en esta entrega. 
+### 📂 Corte_1  
+Contiene el archivo PDF con todos los requisitos que se pedían en esta entrega.  
+
+### 📂 Avances_2  
+Contiene el material de *Design Studio*, las ideas en los *sketches* y los casos de usuario requeridos.  
+
+### 📂 Corte_2  
+Contiene el material solicitado en esta entrega.  
+
